@@ -28,3 +28,4 @@ D:\VisualStudioProjects\Async Sample Control Flow in Async Programs (C# and Visu
 D:\VisualStudioProjects\AsyncAwaitProgramming\C#\AsyncTracer\bin\Debug\AsyncTracer.exe.config
 D:\VisualStudioProjects\AsyncAwaitProgramming\C#\AsyncTracer\obj\Debug\AsyncTracer.exe
 D:\VisualStudioProjects\AsyncAwaitProgramming\C#\AsyncTracer\obj\Debug\AsyncTracer.pdb
+D:\GitUserDog\HelloGit\C#\AsyncTracer\bin\Debug\AsyncTracer.exe.config

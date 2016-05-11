@@ -27,6 +27,8 @@ namespace AsyncTracer
 
         private async void startButton_Click(object sender, RoutedEventArgs e)
         {
+            // Add dumb comments
+            // Add second commets
             // The display lines in the example lead you through the control shifts.
             resultsTextBox.Text += "ONE:   Entering startButton_Click at thread \r\n" + System.Threading.Thread.CurrentThread.GetHashCode() +
                 "           Calling AccessTheWebAsync.\r\n";
